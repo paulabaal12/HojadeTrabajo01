@@ -1,6 +1,4 @@
-/**
- * 
- */
+import java.util.Scanner;
 
 /**
  * @author fabi
@@ -32,7 +30,28 @@ public class DriverProgram {
 		System.out.println("           ██████     ████     ██████             ");
 
 
+	
+	Scanner in = new Scanner(System.in);
+	String opt = in.nextLine();
+	
+	switch(opt) {
+	
+	case "1": {
+		
+	} break;
+	
+	case "2": {
+		
+	} break;
+	
+	default:{
+		
+	} break;
+	
 	}
+	
 
+}
 
+	
 }
