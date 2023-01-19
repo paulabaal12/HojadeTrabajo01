@@ -1,19 +1,31 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Fabi
+ *
+ */
+
 public class radio implements IRadio{
-	protected boolean turnOn;
-    private String banda;
-    private ArrayList<stations>AM = new ArrayList<stations>();
-    private ArrayList<stations>FM = new ArrayList<stations>();
+	
+	private boolean turnOn; 
+	private boolean FMFrequency;
+	private float nowP;
+	private ArrayList<String> savedBotons;
+	
+	public radio(boolean onf, boolean Frequency, float station,ArrayList<String> savedBt) {
+		turnOn = onf;
+		FMFrequency = Frequency;
+		nowP = station;
+		savedBotons = savedBt;
+		
+		turnOn = false;
+		FMFrequency = true;
+		nowP = 0;
+		savedBotons = new ArrayList<String>();
+	}
 
-    public String getBanda() {
-        return banda;
-    }
-
-    public void setBanda(String banda) {
-        this.banda = banda;
-    }
 
     public radio(boolean turnOn) {
         this.turnOn = turnOn;
@@ -34,7 +46,12 @@ public class radio implements IRadio{
     @Override
     public boolean isOn() {
         // TODO Auto-generated method stub
-        return false;
+    	if(FMFrequency == true) {
+			FMFrequency = false;
+		}else {
+			FMFrequency = true;
+		}
+		return FMFrequency;
     }
 
     @Override
