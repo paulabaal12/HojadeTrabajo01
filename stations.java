@@ -10,28 +10,52 @@ public class stations {
     }
     stations (){}
 
-    public String getNombreemisora() {
+    
+    /** 
+     * @return String
+     */
+    public String getStation_name() {
         return station_name;
     }
 
-    public void setNombreemisora(String nombreemisora) {
-        this.station_name = nombreemisora;
+    
+    /** 
+     * @param station_name
+     */
+    public void setStation_name(String station_name) {
+        this.station_name = station_name;
     }
 
-    public String getFrecuenciaemisora() {
+    
+    /** 
+     * @return String
+     */
+    public String getStation_frecuency() {
         return station_frecuency;
     }
 
-    public void setFrecuenciaemisora(String frecuenciaemisora) {
-        this.station_frecuency = frecuenciaemisora;
+    
+    /** 
+     * @param station_frecuency
+     */
+    public void setStation_frecuency(String station_frecuency) {
+        this.station_frecuency = station_frecuency;
     }
 
-    public String getBandaemisora() {
+    
+    /** 
+     * @return String
+     */
+    public String getStation_band () {
         return station_band;
     }
 
-    public void setBandaemisora(String bandaemisora) {
-        this.station_band = bandaemisora;
+    
+    /** 
+     * @param station_band
+     */
+    public void setStation_band (String station_band ) {
+        this.station_band = station_band ;
     }
     
     

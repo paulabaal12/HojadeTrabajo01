@@ -43,12 +43,21 @@ public class radio implements IRadio{
         
     }
 
+    
+    /** 
+     * @return boolean
+     */
     @Override
     public boolean isOn() {
         // TODO Auto-generated method stub
         return false;
     }
 
+    
+    /** 
+     * @param freq
+     * @throws Exception
+     */
     @Override
     public void setFrequence(String freq) throws Exception {
         // TODO Auto-generated method stub
@@ -61,6 +70,10 @@ public class radio implements IRadio{
         
     }
 
+    
+    /** 
+     * @return String
+     */
     @Override
     public String getFrequence() {
         // TODO Auto-generated method stub
@@ -79,54 +92,94 @@ public class radio implements IRadio{
         
     }
 
+    
+    /** 
+     * @return double
+     */
     @Override
     public double getFMActualStation() {
         // TODO Auto-generated method stub
         return 0;
     }
 
+    
+    /** 
+     * @return int
+     */
     @Override
     public int getAMActualStation() {
         // TODO Auto-generated method stub
         return 0;
     }
 
+    
+    /** 
+     * @param actualStation
+     */
     @Override
     public void setFMActualStation(double actualStation) {
         // TODO Auto-generated method stub
         
     }
 
+    
+    /** 
+     * @param actualStation
+     */
     @Override
     public void setAMActualStation(int actualStation) {
         // TODO Auto-generated method stub
         
     }
 
+    
+    /** 
+     * @param actualStation
+     * @param slot
+     */
     @Override
     public void saveFMStation(double actualStation, int slot) {
         // TODO Auto-generated method stub
         
     }
 
+    
+    /** 
+     * @param actualStation
+     * @param slot
+     */
     @Override
     public void saveAMStation(int actualStation, int slot) {
         // TODO Auto-generated method stub
         
     }
 
+    
+    /** 
+     * @param slot
+     * @return double
+     */
     @Override
     public double getFMSlot(int slot) {
         // TODO Auto-generated method stub
         return 0;
     }
 
+    
+    /** 
+     * @param slot
+     * @return int
+     */
     @Override
     public int getAMSlot(int slot) {
         // TODO Auto-generated method stub
         return 0;
     }
 
+    
+    /** 
+     * @param b
+     */
     public static void turnOn(boolean b) {
     }
 }
