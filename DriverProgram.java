@@ -33,7 +33,7 @@ public class DriverProgram {
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-		System.out.println("  █░░░░░░░░░░¿Deseas prender la radio?░░░░░░░░░█");
+		System.out.println("  █░░░░░░░░░░¿Deseas prender la radio░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░Si (1)░░░░░No (2)░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -54,7 +54,7 @@ public class DriverProgram {
 			System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 			System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 			System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-			System.out.println("  █░░░░░░░░░░¿Deseas prender la radio?░░░░░░░░░█");
+			System.out.println("  █░░░░░░░░░░¿Deseas prender la radio░░░░░░░░░░█");
 			System.out.println("  █░░░░░░░░░░░░░░Si (1)░░░░░No (2)░░░░░░░░░░░░░█");
 			System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 			System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -79,10 +79,10 @@ public class DriverProgram {
 					System.out.println("  ██████████████████████████████████████████████");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-					System.out.println("  █░░░░░░░░░░La radio está apagada :(░░░░░░░░░░█");
+					System.out.println("  █░░░░░░░░░░La radio esta apagada :(░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-					System.out.println("  █░░░░░░░░░░¿Deseas prender la radio?░░░░░░░░░█");
+					System.out.println("  █░░░░░░░░░░¿Deseas prender la radio░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░Si (1)░░░░░No (2)░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -114,12 +114,12 @@ public class DriverProgram {
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░Bienvenidos a tu radio favorita░░░░░░█");
-		System.out.println("  █░░░░░░░░░░░░░Que deseas hacer?░░░░░░░░░░░░░░█");
+		System.out.println("  █░░░░░░░░░░░░¿Que deseas hacer░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░1 Cambiar frecuencia░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░2. Cambiar emisora░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░3. Guardar emisora░░░░░░░░░░░░░█");
-		System.out.println("  █░░░░░░░░░░░░4. Seleccionar botón░░░░░░░░░░░░█");
+		System.out.println("  █░░░░░░░░░░░░4. Seleccionar boton░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 		System.out.println(" ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████");
@@ -137,9 +137,9 @@ public class DriverProgram {
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░La frecuencia ha sido cambiada░░░░░░░█");
-				System.out.println("  █░░░░░░░░░░░░░Que deseas hacer?░░░░░░░░░░░░░░█");
+				System.out.println("  █░░░░░░░░░░░░░Que deseas hacer░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░░░░¿La frecuencia actual es:░░░░░░░░░█");
+				System.out.println("  █░░░░░░░░░░¿La frecuencia actual es░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░"+ radio.getFrequence() + "░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -158,12 +158,12 @@ public class DriverProgram {
 				System.out.println("  ██████████████████████████████████████████████");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░¿Deseas subir la emisora? (1)░░░░░░░░█");
+				System.out.println("  █░░░░░░░¿Deseas subir la emisora (1)░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░o░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░¿Deseas bajar la emisora? (2)░░░░░░░░█");
+				System.out.println("  █░░░░░░░¿Deseas bajar la emisora (2)░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println(" ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████");
@@ -182,7 +182,7 @@ public class DriverProgram {
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-					System.out.println("  █░░░░░░░░░░░La emisora actual es: ░░░░░░░░░░░█");
+					System.out.println("  █░░░░░░░░░░░La emisora actual es ░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -203,7 +203,7 @@ public class DriverProgram {
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-					System.out.println("  █░░░░░░░░░░░La emisora actual es: ░░░░░░░░░░░█");
+					System.out.println("  █░░░░░░░░░░░La emisora actual es ░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 					System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -222,10 +222,10 @@ public class DriverProgram {
 				System.out.println("  ██████████████████████████████████████████████");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░░¿En qué botón deseas guardar ░░░░░░░█");
-				System.out.println("  █░░░░░░░░░░░░░░la emisora?░░░░░░░░░░░░░░░░░░░█");
+				System.out.println("  █░░░░░░░░¿En qué boton deseas guardar ░░░░░░░█");
+				System.out.println("  █░░░░░░░░░░░░░░la emisora░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░░Elige un número del 1 al 12░░░░░░░░░█");
+				System.out.println("  █░░░░░░░░Elige un numero del 1 al 12░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░:)░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -250,7 +250,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -271,7 +271,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -292,7 +292,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -313,7 +313,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -334,7 +334,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -355,7 +355,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -376,7 +376,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -397,7 +397,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -418,7 +418,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -439,7 +439,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -460,7 +460,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -481,7 +481,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░░░░Emisora guardada con éxito░░░░░░░░░░█");
+							System.out.println("  █░░░░░░░░Emisora guardada con exito░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -505,9 +505,9 @@ public class DriverProgram {
 				System.out.println("  ██████████████████████████████████████████████");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░¿En qué botón deseas presionar? ░░░░░░█");
+				System.out.println("  █░░░░░░░Que boton deseas presionar ░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░░Elige un número del 1 al 12░░░░░░░░░█");
+				System.out.println("  █░░░░░░░░Elige un numero del 1 al 12░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░:)░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -532,7 +532,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -553,7 +553,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -573,7 +573,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -594,7 +594,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -615,7 +615,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -636,7 +636,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -657,7 +657,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -678,7 +678,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -699,7 +699,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -720,7 +720,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -741,7 +741,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
@@ -762,7 +762,7 @@ public class DriverProgram {
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-							System.out.println("  █░░░░░Se está reproduciendo la emisora░░░░░░░█");
+							System.out.println("  █░░░░░Se esta reproduciendo la emisora░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 							System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
