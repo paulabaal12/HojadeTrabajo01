@@ -10,18 +10,18 @@ import java.util.Scanner;
 public class radio implements IRadio{
 	
 	private boolean turnOn; 
-	private boolean FMFrequency;
+	private String FMFrequency;
 	private float nowP;
 	private ArrayList<String> savedBotons;
 	
-	public radio(boolean onf, boolean Frequency, float station,ArrayList<String> savedBt) {
+	public radio(boolean onf, String Frequency, float station,ArrayList<String> savedBt) {
 		turnOn = onf;
 		FMFrequency = Frequency;
 		nowP = station;
 		savedBotons = savedBt;
 		
 		turnOn = false;
-		FMFrequency = true;
+		FMFrequency = "FM";
 		nowP = 0;
 		savedBotons = new ArrayList<String>();
 	}
@@ -46,24 +46,25 @@ public class radio implements IRadio{
     @Override
     public boolean isOn() {
         // TODO Auto-generated method stub
-    	if(FMFrequency == true) {
-			FMFrequency = false;
-		}else {
-			FMFrequency = true;
-		}
-		return FMFrequency;
+        return false;
     }
 
     @Override
     public void setFrequence(String freq) throws Exception {
         // TODO Auto-generated method stub
+    	if(FMFrequency == "FM") {
+			FMFrequency = "AM";
+		}else {
+			FMFrequency = "FM";
+		}
+		return;
         
     }
 
     @Override
     public String getFrequence() {
         // TODO Auto-generated method stub
-        return null;
+    	return FMFrequency;
     }
 
     @Override

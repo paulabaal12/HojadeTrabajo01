@@ -17,7 +17,7 @@ public class DriverProgram {
 	public static void main(String[] args) {
 		
 		boolean turnOn = false;
-		boolean FMFrequency = true;
+		String FMFrequency = "FM";
 		float nowP = 0;
 		ArrayList<String> savedBotons = null;
 		
@@ -71,7 +71,7 @@ public class DriverProgram {
 				
 				switch (respon) {
 				case 1:{
-					MenuR();
+					MenuR(radio);
 				}break;
 				
 				case 2:{
@@ -105,7 +105,7 @@ public class DriverProgram {
 
 		}
 
-	public static void MenuR() {
+	public static void MenuR(radio radio) {
 		
 		int opt = 0;
 		Scanner in = new Scanner(System.in);
@@ -139,9 +139,8 @@ public class DriverProgram {
 				System.out.println("  █░░░░░░░La frecuencia ha sido cambiada░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░Que deseas hacer?░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░░¿La frecuencia actual es FM?:░░░░░░░█");
-				System.out.println("  █░░░░░░░░░░░░░░░░False = AM░░░░░░░░░░░░░░░░░░█");
-				System.out.println("  █░░░░░░░░░░░░░░░░░True = FM░░░░░░░░░░░░░░░░░░█");
+				System.out.println("  █░░░░░░░░░░¿La frecuencia actual es:░░░░░░░░░█");
+				System.out.println("  █░░░░░░░░░░░░░░░░░░░░"+ radio.getFrequence() + "░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println("  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
 				System.out.println(" ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████");
@@ -150,7 +149,7 @@ public class DriverProgram {
 				System.out.println("▀███▀      █▄▄▄▄█    ██▄▄██    █▄▄▄▄█       ▀███▀");
 				System.out.println("           ██████     ████     ██████             ");
 				
-				MenuR();
+				MenuR(radio);
 				
 			}break;
 			
@@ -194,7 +193,7 @@ public class DriverProgram {
 					System.out.println("▀███▀      █▄▄▄▄█    ██▄▄██    █▄▄▄▄█       ▀███▀");
 					System.out.println("           ██████     ████     ██████             ");		
 					
-					MenuR();
+					MenuR(radio);
 				}
 				
 				if (res == 2){
@@ -214,7 +213,7 @@ public class DriverProgram {
 					System.out.println("█▄▄██▌                                      ███░▐█");
 					System.out.println("▀███▀      █▄▄▄▄█    ██▄▄██    █▄▄▄▄█       ▀███▀");
 					System.out.println("           ██████     ████     ██████             ");	
-					MenuR();
+					MenuR(radio);
 				}
 			}break;
 			
@@ -779,7 +778,7 @@ public class DriverProgram {
 					
 				}while(opti != 13);
 				
-				MenuR();
+				MenuR(radio);
 				
 				
 			}break;
