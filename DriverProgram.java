@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
@@ -14,6 +15,13 @@ public class DriverProgram {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		boolean turnOn = false;
+		boolean FMFrequency = true;
+		float nowP = 0;
+		ArrayList<String> savedBotons = null;
+		
+		radio radio = new radio(turnOn, FMFrequency, nowP, savedBotons);
 		
 		Scanner in = new Scanner(System.in);
 		int respon = 1;
