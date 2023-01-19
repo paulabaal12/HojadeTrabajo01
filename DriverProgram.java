@@ -36,6 +36,7 @@ public class DriverProgram {
 		System.out.println("█▄▄██▌                                      ███░▐█");
 		System.out.println("▀███▀      █▄▄▄▄█    ██▄▄██    █▄▄▄▄█       ▀███▀");
 		System.out.println("           ██████     ████     ██████             ");
+		respon = Integer.parseInt(in.nextLine());
 		
 		
 		do {
