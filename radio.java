@@ -108,4 +108,7 @@ public class radio implements IRadio{
         // TODO Auto-generated method stub
         return 0;
     }
+
+    public static void turnOn(boolean b) {
+    }
 }

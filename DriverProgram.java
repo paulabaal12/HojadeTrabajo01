@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import javax.swing.JOptionPane;
+
 /**
  * @author fabi
  *
@@ -37,7 +39,8 @@ public class DriverProgram {
 	switch(opt) {
 	
 	case "1": {
-		
+		radio.turnOn(true);
+		JOptionPane.showMessageDialog(null, "La radio está encendida");
 	} break;
 	
 	case "2": {
